@@ -1,0 +1,14 @@
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Debug\wfaSimpleDataShow.exe.config
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Debug\wfaSimpleDataShow.exe
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Debug\wfaSimpleDataShow.pdb
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\wfaSimpleDataShow.frmMain.resources
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\wfaSimpleDataShow.frmShow.resources
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\wfaSimpleDataShow.Properties.Resources.resources
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\wfaSimpleDataShow.csproj.GenerateResource.Cache
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\wfaSimpleDataShow.exe
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\wfaSimpleDataShow.pdb
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\Interop.WMPLib.dll
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\AxInterop.WMPLib.dll
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Debug\wfaSimpleDataShow.csproj.ResolveComReference.cache
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Debug\Interop.WMPLib.dll
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Debug\AxInterop.WMPLib.dll

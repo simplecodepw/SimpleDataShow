@@ -1,0 +1,15 @@
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\Interop.WMPLib.dll
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\AxInterop.WMPLib.dll
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\wfaSimpleDataShow.csproj.ResolveComReference.cache
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Release\Interop.WMPLib.dll
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Release\AxInterop.WMPLib.dll
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\wfaSimpleDataShow.frmMain.resources
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\wfaSimpleDataShow.frmShow.resources
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\wfaSimpleDataShow.csproj.GenerateResource.Cache
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\wfaSimpleDataShow.csprojResolveAssemblyReference.cache
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Release\SimpleDataShow.exe.config
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Release\SimpleDataShow.exe
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\bin\Release\SimpleDataShow.pdb
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\SimpleDataShow.Properties.Resources.resources
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\SimpleDataShow.exe
+c:\Projects\wfaSimpleDataShow\wfaSimpleDataShow\wfaSimpleDataShow\obj\Release\SimpleDataShow.pdb
